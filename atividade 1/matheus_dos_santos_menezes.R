@@ -1,3 +1,6 @@
+# MATHEUS DOS SANTOS MENEZES
+# ATIVIDADE 1 - IEE045 INTRODUÇÃO A PROGRAMAÇÃO EM R - 202401 - UFAM
+
 # QUESTÃO 1:
 
 Produto <- function(preco, validade) {
