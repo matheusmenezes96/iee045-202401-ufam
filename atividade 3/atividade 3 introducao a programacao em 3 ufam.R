@@ -104,8 +104,8 @@ print(resultado)  # Isso imprimirá FALSE
 
 #------------------
 
-# professor, remover essa questao 6 aqui do codigo
-caso seja preciso para rodar esse arquivo em R
+# ** professor, remover essa questao 6 aqui do codigo
+# caso seja preciso para rodar esse arquivo em R
 
 #6)
 
